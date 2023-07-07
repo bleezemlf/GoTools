@@ -5,9 +5,7 @@
 ## 1.SubtitleJoiner
 
 🎈**解决的需求：**
-把一段影视剧中连续台词的字幕合并到一张图片中，方便截图保存，效果如下图：
-
-<img src="./SubtitleJoiner/result.jpg" alt="效果图" style="zoom: 25%;" />
+把一段影视剧中连续台词的字幕合并到一张图片中，方便截图保存，效果图可以查看SubtitleJoiner目录中的result.jpg。
 
 ✨**使用方法：**
 
