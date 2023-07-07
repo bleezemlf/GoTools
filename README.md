@@ -7,7 +7,7 @@
 🎈**解决的需求：**
 把一段影视剧中连续台词的字幕合并到一张图片中，方便截图保存，效果如下图：
 
-![效果图](./SubtitleJoiner/result.jpg)
+<img src="./SubtitleJoiner/result.jpg" alt="效果图" style="zoom: 25%;" />
 
 ✨**使用方法：**
 
